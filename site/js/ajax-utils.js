@@ -18,7 +18,7 @@ function getRequestObject() {
     return(null); 
   }
 }
-
+ 
 
 // Makes an Ajax GET request to 'requestUrl'
 ajaxUtils.sendGetRequest = 
